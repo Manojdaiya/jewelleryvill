@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Gugi&family=Lato:wght@100&family=Roboto:wght@100&family=Sofia&display=swap');
+ @import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+
+.primary-color
+{
+    color : #45ccb8;;
+}
+.font-robot
+{
+    font-family: "Roboto" sans-serif ;
+}
+.bg-primary-color{
+    background: #45ccb8 !important;
+}
+.text-color
+{
+    color:#ff686b;
+}
+.lightblue
+{
+    color:lightblue;
+}
+header
+{
+    background-color:#45ccb8;;
+    font-family:"Roboto" sans-serif;
+}
+.site-title
+{
+    font-family:"Gugi" cursive;
+}
+.container .dropdown-toggle,
+.container .dropdown-item
+{
+    font-family:0.7em;
+}
+.header-links a
+{
+    font-size: 1.1em;
+    text-decoration: none;
+    color:white;
+}
+
+/*navigation manu*/
+.navbar-nav
+{
+    padding: 0.8em 0em;
+    
+}
+.navbar-nav .nav-link
+{
+    font-size:0.9em;
+    Color:#2b3031a1 !important;
+}
+.navbar-nav .nav-item .navlink
+{
+    padding: 0 1.3em;
+}
+.navbar-nav .basket-icon
+{
+   /* margin-right:6.5em !important;*/
+}
+
+
